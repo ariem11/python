@@ -1,2 +1,2 @@
 # python projects : 
-Easy : zoo.py
+Easy : zoo.py SimpleChattyBot.py
